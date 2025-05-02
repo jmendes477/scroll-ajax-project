@@ -11,11 +11,14 @@ Simple web application that sends requests to the server for additional data as 
 ## Setup
 - Install XAMPP
 - Run MySQL and Apache
+-----------------------------------------------------------------------------------------------------
+![alt text](https://github.com/jmendes477/scroll-ajax-project/blob/main/img/xampp.png?raw=true)
 - Go into Admin MySQL console and setup database and tables
 - Place html and php files under XAMPP installation folder (e.g.C:\xampp\htdocs\scroll)
 - Run build.php to insert data in database: http://localhost/scroll/build.php
 - Access [http://localhost/scroll/](http://localhost/scroll/)
-
+-----------------------------------------------------------------------------------------------------
+![alt text](https://github.com/jmendes477/scroll-ajax-project/blob/main/img/scroll-project.png?raw=true)
 ## Reference
 - https://www.udemy.com/course/ajax-project/
 - https://baconipsum.com/json-api/
